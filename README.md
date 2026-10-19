@@ -1,2 +1,2 @@
 # fraud-detection-system
-A machine learning-based web application for student learning assessment, academic support predictions, and personalized remedial learning resources.
+Developed a machine learning-based student learning support web application that assesses learning habits and predicts potential academic support needs. The application provides subject-specific remedial tips and relevant learning resources to help students address learning difficulties. Built using Python, Streamlit, and Scikit-learn, the project is an ongoing learning initiative focused on exploring machine learning integration, educational data analysis, and personalized learning recommendations.
